@@ -1,0 +1,735 @@
+@media(max-width:1199px) and (min-width:992px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 6px;
+        top: 36px;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 87vh;
+    }
+    .para-img img {
+        width: 89%;
+    }
+    .banner h1 {
+        font-size: 65px;
+    }
+    .what-we-do {
+        background-size: 920px;
+    }
+    .text-data-1 h3 {
+        line-height: 35px;
+        font-size: 26px;
+    }
+    .image:hover .text-data-1 h3 {
+        top: 76%;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 27px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 27px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 26px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 26px;
+    }
+    .wwd-text h3 {
+        font-size: 29px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 29px;
+    }
+    .para h3 {
+        font-size: 35px;
+    }
+    .header h3 {
+        font-size: 35px;
+    }
+    .oa-text h3 {
+        font-size: 37px;
+    }
+    .lang h3 {
+        font-size: 35px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 0px;
+        top: 39px;
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 63px;
+        line-height: 81px;
+    }
+    .icon {
+        font-size: 37px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 51px;
+    }
+    .para p {
+        font-size: 15px;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 92vh;
+    }
+    .para-img img {
+        width: 100%;
+    }
+    .what-we-do {
+        background-size: 741px;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 23px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 23px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 22px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 22px;
+    }
+    .wwd-text h3 {
+        font-size: 26px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 26px;
+    }
+    .para h3 {
+        font-size: 32px;
+    }
+    .header h3 {
+        font-size: 32px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+    .lang h3 {
+        font-size: 32px;
+    }
+    .oa-text h3 {
+        font-size: 33px;
+        padding-right: 0;
+    }
+    .languag-2 {
+        padding-bottom: 66px;
+    }
+    .oa-text {
+        padding: 0px 0 29px 0;
+        text-align: center;
+        margin-top: -118px;
+    }
+    .oa-text p {
+        margin-bottom: 24px;
+        padding: 0px 86px;
+    }
+    .image {
+        margin: 44px 0 155px;
+    }
+    .text-data-1 h3 {
+        line-height: 38px;
+        font-size: 28px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 0px;
+        top: 39px;
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 54px;
+        line-height: 63px;
+    }
+    .icon {
+        font-size: 37px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 48px;
+    }
+    .para p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 76vh;
+    }
+    .para-img img {
+        width: 89%;
+        margin: auto;
+    }
+    .what-we-do {
+    background: none;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 39px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 39px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 36px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 36px;
+    }
+    .wwd-text h3 {
+    font-size: 39px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 39px;
+    }
+    .para h3 {
+        font-size: 32px;
+    }
+    .header h3 {
+        font-size: 32px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+    .languag-3{
+        padding-bottom: 80px;
+    }
+    .lang h3 {
+        font-size: 32px;
+    }
+    .oa-text h3 {
+        font-size: 33px;
+        padding-right: 0;
+    }
+    .languag-2 {
+        padding-bottom: 80px;
+    }
+    .oa-text {
+        padding: 0px 0 29px 0;
+        text-align: center;
+        margin-top: -118px;
+    }
+    .oa-text p {
+        margin-bottom: 24px;
+        padding: 0px 0px;
+    }
+    .image {
+        margin: 44px 0 27px;
+        display: flex;
+        justify-content: center;
+    }
+    .text-data-1 h3 {
+        line-height: 45px;
+        font-size: 36px;
+    }
+    .images {
+        width: 100%;
+    }
+    .content {
+        width: 89%;
+        padding-bottom: 0;
+        margin: auto;
+        margin-bottom: 68px;
+    }
+    .content-3{
+        margin-bottom: 161px;
+    }
+    .para span{
+        
+    margin-top: 67px;
+    }
+    .header span{
+        margin-top: 143px;
+    }
+    .image-2{
+        margin: 44px 0 192px;
+    }
+    .first-img{
+        width: 92%;
+    }
+    .image::before {
+        width: 92%;
+    }
+    .icons ul {
+        padding: 26px 0px 44px;
+        justify-content: center;
+    }  
+    footer p {
+        padding: 46px 0 8px;
+    } 
+    .navbar-brand img{
+        width: 92%;
+    }
+}
+@media(max-width: 575px) and (min-width: 0px){
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 0px;
+        top: 39px;
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 66px;
+        line-height: 69px;
+    }
+    .icon {
+        font-size: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 11px;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 48px;
+    }
+    .para p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 61vh;
+    }
+    .para-img img {
+        width: 89%;
+        margin: auto;
+    }
+    .what-we-do {
+    background: none;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 32px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 32px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 31px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 31px;
+    }
+    .wwd-text h3 {
+    font-size: 35px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 35px;
+    }
+    .para h3 {
+        font-size: 32px;
+    }
+    .header h3 {
+        font-size: 32px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+    .lang h3 {
+        font-size: 32px;
+    }
+    .languag-3{
+        padding-bottom: 80px;
+    }
+    .oa-text h3 {
+        font-size: 33px;
+        padding-right: 0;
+    }
+    .languag-2 {
+        padding-bottom: 66px;
+    }
+    .oa-text {
+        padding: 0px 0 29px 0;
+        text-align: center;
+        margin-top: -118px;
+    }
+    .oa-text p {
+        margin-bottom: 24px;
+        padding: 0px 0px;
+    }
+    .image {
+        margin: 44px 0 8px;
+        display: flex;
+        justify-content: center;
+    }
+    .text-data-1 h3 {
+        line-height: 40px;
+        font-size: 30px;
+    }
+    .images {
+        width: 100%;
+        margin: auto;
+    }
+    .content {
+        width: 89%;
+        margin: auto;
+        margin-bottom: 50px;
+        padding-bottom: 0;
+    }
+    .content-3{
+        margin-bottom: 161px;
+    }
+    .para span{
+        
+    margin-top: 67px;
+    }
+    .header span{
+        margin-top: 143px;
+    }
+    .image-2{
+        margin: 44px 0 173px;
+    }
+    .first-img{
+        width: 92%;
+    }
+    .image::before {
+        width: 92%;
+    }
+    .icons ul {
+        padding: 26px 0px 44px;
+        justify-content: center;
+    }  
+    footer p {
+        padding: 46px 0 8px;
+    } 
+    .content:hover i {
+        position: absolute;
+        font-size: 31px;
+    }
+    .content i {
+        font-size: 31px;
+    }
+    ::placeholder{
+        font-size:15px
+    }
+    input[type="submit"] {
+        width: 35%;
+    }
+    .navbar-brand img{
+    width: 89%;
+    }
+}
+@media(max-width: 375px) and (min-width: 0px){
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 0px;
+        top: 39px;
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 62px;
+        line-height: 69px;
+    }
+    .icon {
+        font-size: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 11px;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 48px;
+    }
+    .para p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 55vh;
+    }
+    .para-img img {
+        width: 89%;
+        margin: auto;
+    }
+    .what-we-do {
+    background: none;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 28px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 28px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 27px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 27px;
+    }
+    .wwd-text h3 {
+    font-size: 31px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 31px;
+    }
+    .para h3 {
+        font-size: 32px;
+    }
+    .header h3 {
+        font-size: 32px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+    .lang h3 {
+        font-size: 32px;
+    }
+    .oa-text h3 {
+        font-size: 33px;
+        padding-right: 0;
+    }
+    .languag-2 {
+        padding-bottom: 66px;
+    }
+    .languag-3{
+        padding-bottom: 80px;
+    }
+    .oa-text {
+        padding: 0px 0 29px 0;
+        text-align: center;
+        margin-top: -118px;
+    }
+    .oa-text p {
+        margin-bottom: 24px;
+        padding: 0px 0px;
+    }
+    .image {
+        margin: 44px 0 8px;
+        display: flex;
+        justify-content: center;
+    }
+    .text-data-1 h3 {
+        line-height: 33px;
+        font-size: 27px;
+    }
+    .images {
+        width: 100%;
+        margin: auto;
+    }
+    .content {
+        width: 89%;
+        margin: auto;
+        margin-bottom: 50px;
+        padding-bottom: 0;
+    }
+    .content-3{
+        margin-bottom: 161px;
+    }
+    .para span{
+        
+    margin-top: 67px;
+    }
+    .header span{
+        margin-top: 143px;
+    }
+    .image-2{
+        margin: 44px 0 173px;
+    }
+    .first-img{
+        width: 92%;
+    }
+    .image::before {
+        width: 92%;
+    }
+    .icons ul {
+        padding: 26px 0px 44px;
+        justify-content: center;
+    }  
+    footer p {
+        padding: 46px 0 8px;
+    } 
+    .content:hover i {
+        position: absolute;
+        font-size: 31px;
+    }
+    .content i {
+        font-size: 31px;
+    }
+    ::placeholder{
+        font-size:15px
+    }
+    input[type="submit"] {
+        width: 38%;
+    }
+    .navbar-brand img{
+        width: 82%;
+    }
+}
+@media(max-width: 320px) and (min-width: 0px){
+    .navbar-light .navbar-nav .nav-link::before {
+        left: 0px;
+        top: 39px;
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 56px;
+        line-height: 66px;
+    }
+    .icon {
+        font-size: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 11px;
+        font-size: 14px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 48px;
+    }
+    .para p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .para-img {
+        display: flex;
+        align-items: center;
+        min-height: 49vh;
+    }
+    .para-img img {
+        width: 89%;
+        margin: auto;
+    }
+    .what-we-do {
+    background: none;
+    }
+    .content:hover .wwd-text-3 h3 {
+        font-size: 24px;
+    }
+    .wwd-text-3 h3 {
+        font-size: 24px;
+    }
+    .wwd-text-2 h3 {
+        font-size: 23px;
+    }
+    .content:hover .wwd-text-2 h3 {
+        font-size: 23px;
+    }
+    .wwd-text h3 {
+    font-size: 28px;
+    }
+    .content:hover .wwd-text h3 {
+        font-size: 28px;
+    }
+    .para h3 {
+        font-size: 32px;
+    }
+    .header h3 {
+        font-size: 32px;
+    }
+    .languag h3 {
+        font-size: 25px;
+    }
+    .lang h3 {
+        font-size: 32px;
+    }
+    .oa-text h3 {
+        font-size: 33px;
+        padding-right: 0;
+    }
+    .languag-2 {
+        padding-bottom: 66px;
+    }
+    .languag-3{
+        padding-bottom: 80px;
+    }
+    .oa-text {
+        padding: 0px 0 29px 0;
+        text-align: center;
+        margin-top: -118px;
+    }
+    .oa-text p {
+        margin-bottom: 24px;
+        padding: 0px 0px;
+        font-size: 15px;
+    }
+    .image {
+        margin: 44px 0 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .text-data-1 h3 {
+        line-height: 31px;
+        font-size: 23px;
+    }
+    .images {
+        width: 100%;
+        margin: auto;
+    }
+    .content {
+        width: 89%;
+        margin: auto;
+        margin-bottom: 35px;
+        padding-bottom: 0;
+    }
+    .content-3{
+        margin-bottom: 161px;
+    }
+    .para span{
+        
+    margin-top: 67px;
+    }
+    .header span{
+        margin-top: 143px;
+    }
+    .image-2{
+        margin: 44px 0 165px;
+    }
+    .first-img{
+        width: 92%;
+    }
+    .image::before {
+        width: 92%;
+    }
+    .icons ul {
+        padding: 26px 0px 44px;
+        justify-content: center;
+    }  
+    footer p {
+        padding: 46px 0 8px;
+        font-size: 14px;
+    } 
+    .content:hover i {
+        position: absolute;
+        font-size: 31px;
+    }
+    .content i {
+        font-size: 31px;
+    }
+    ::placeholder{
+        font-size:15px
+    }
+    input[type="submit"] {
+        width: 40%;
+    }
+    .navbar-brand img{
+        width: 78%;
+    }
+}
